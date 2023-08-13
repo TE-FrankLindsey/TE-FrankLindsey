@@ -1,4 +1,7 @@
-### Hi there 👋
+### Frank Lindsey intro
+### This is the personal intro for Frank Lindsey
+### Retired at start of COVID but now looking to re-enter workforce as web developer
+### Looking forward to learning full stack development at Tech Elevator
 
 <!--
 **TE-FrankLindsey/TE-FrankLindsey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
